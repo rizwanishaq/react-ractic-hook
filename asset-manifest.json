@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ractic-hook/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/react-ractic-hook/static/js/main.84081d1e.chunk.js",
+    "main.js.map": "/react-ractic-hook/static/js/main.84081d1e.chunk.js.map",
+    "runtime-main.js": "/react-ractic-hook/static/js/runtime-main.ab871068.js",
+    "runtime-main.js.map": "/react-ractic-hook/static/js/runtime-main.ab871068.js.map",
+    "static/js/2.0f95d4b0.chunk.js": "/react-ractic-hook/static/js/2.0f95d4b0.chunk.js",
+    "static/js/2.0f95d4b0.chunk.js.map": "/react-ractic-hook/static/js/2.0f95d4b0.chunk.js.map",
+    "index.html": "/react-ractic-hook/index.html",
+    "precache-manifest.6284797c9206339625724fcd87cba5f0.js": "/react-ractic-hook/precache-manifest.6284797c9206339625724fcd87cba5f0.js",
+    "service-worker.js": "/react-ractic-hook/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/react-ractic-hook/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.0f95d4b0.chunk.js.LICENSE": "/react-ractic-hook/static/js/2.0f95d4b0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab871068.js",
+    "static/js/2.0f95d4b0.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.84081d1e.chunk.js"
+  ]
+}
